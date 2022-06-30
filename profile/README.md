@@ -3,6 +3,8 @@
 <a href="https://t.me/tizuWare" alt="Telegram channel"><img src="https://img.shields.io/badge/t.me-%2FtizuWare-blue" /></a>
 
 Making applications that work but with code that is not optimized at all
+
+**Everything mentioned below might change at any point in time without further notice**
 ## Note!
 By using any tizuWare application or service, you agree to using said product only for legal purposes according to laws of your country. If we find out that you ignore this, we may...
 - prevent you from using the tAppStore.
@@ -10,6 +12,7 @@ By using any tizuWare application or service, you agree to using said product on
 - block you on all of our GitHub projects.
 - take legal action in serious breach of law(s).
 - take other actions not listed here if required.
+
 If you find out that someone may violate those rules, create an issue [here](https://github.com/tizuWare/violation-log/issues).
 
 ## Your privacy (Privacy Policy)
