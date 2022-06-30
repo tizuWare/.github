@@ -8,7 +8,6 @@ Making applications that work but with code that is not optimized at all
 ## Note!
 By using any tizuWare application or service, you agree to using said product only for legal purposes according to laws of your country. If we find out that you ignore this, we may...
 - prevent you from using the tAppStore.
-- save some or all of your system information and/or configuration (including Hardware, Network information including IP address and more) for up to 6 months in a publicly available file for you to stare at and think about your behavior.
 - block you on all of our GitHub projects.
 - take legal action in serious breach of law(s).
 - take other actions not listed here if required.
