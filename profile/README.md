@@ -30,7 +30,7 @@ No real magic here. We do not store any data unless you don't follow the agreeme
 ## Lastly, here are some ideas to get you started:
 🙋‍♀️ A short introduction - what is your organization all about? WPF applications.
 
-🌈 Contribution guidelines - how can the community get involved? If you worked so hard on something, you can push request it. It will get accepted or rejected. No in-between.
+🌈 Contribution guidelines - how can the community get involved? Just work on something and it'll get accepted or rejected.
 
 👩‍💻 Useful resources - where can the community find your docs? Nowhere. All over the place. Is there anything else the community should know? No.
 
