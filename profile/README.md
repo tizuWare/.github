@@ -24,7 +24,7 @@ No real magic here. We do not store any data unless you don't follow the agreeme
 
 ---
 
-**Note!** Third parties, for example GitHub, have their own privacy policy. The following third-parties are accessed silently (to fetch data):
+**Note!** Third parties have their own terms and privacy policy. The following third-parties are accessed silently in some or all tizuWare applications (to fetch data):
 - GitHub
 
 ## Lastly, here are some ideas to get you started:
