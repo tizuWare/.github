@@ -27,7 +27,8 @@ No real magic here. We do not store any data unless you don't follow the agreeme
 **Note!** Third parties have their own terms and privacy policy. The following third-parties are accessed silently in some or all tizuWare applications (to fetch data):
 - GitHub
 
-# License for all tizuWare software (unless mentioned otherwise)
+# NO BAD STUFF LICENSE (NBSL)
+License for all tizuWare software (unless mentioned otherwise)
 ```
 NO BAD STUFF LICENSE (NBSL)
 Copyright (c) 2022 tizuWare and contributors
