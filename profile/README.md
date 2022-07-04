@@ -4,9 +4,11 @@
 
 Making applications that work but with code that is not optimized at all
 
+*tizuWare is currently WIP. This message will be removed once the tAppStore will be released.*
+
 **Everything mentioned below might change at any point in time without further notice**
 ## Note!
-By using any tizuWare application or service, you agree to using said product only for legal purposes according to laws of your country. If we find out that you ignore this, we may...
+By using any tizuWare application or service, you agree to using said product only for legal purposes according to- 1) laws of your country; 2) the NBSL license as seen below. If we find out that you ignore this, we may...
 - prevent you from using the tAppStore.
 - block you on all of our GitHub projects.
 - take legal action in serious breach of law(s).
