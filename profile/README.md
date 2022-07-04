@@ -28,6 +28,7 @@ No real magic here. We do not store any data unless you don't follow the agreeme
 - GitHub
 
 # License for all tizuWare software (unless mentioned otherwise)
+```
 NO BAD STUFF LICENSE (NBSL)
 Copyright (c) 2022 tizuWare and contributors
 
@@ -40,7 +41,7 @@ Copyright (c) 2022 tizuWare and contributors
 *: You can ask me for permission using Telegram (@tizu69).
 **: The official download source can be found here: https://github.com/tizuWare/[...].
 ***: Mentioned software must not ship with this repo/related as seen in rule 4, you may download it during installation or when required.
-
+```
 ## Lastly, here are some ideas to get you started:
 🙋‍♀️ A short introduction - what is your organization all about? WPF applications.
 
