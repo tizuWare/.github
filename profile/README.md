@@ -1,6 +1,6 @@
 
 # tizuWare
-tizuWare (pronounced `tɑːɪzuːʔwær`, use (this tool)[http://ipa-reader.xyz/] if you'd like to hear that)
+tizuWare (pronounced `tɑːɪzuːʔwær`, use [this tool](http://ipa-reader.xyz/) if you'd like to hear that)
 
 
 <a href="https://t.me/tizuWare" alt="Telegram channel"><img src="https://img.shields.io/badge/t.me-%2FtizuWare-blue" /></a>
